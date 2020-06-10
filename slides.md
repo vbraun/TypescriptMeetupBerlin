@@ -422,3 +422,9 @@ Questions / Comments / Looking for a challenge?
 
 
 volker.braun@talque.de
+
+<br/>
+<br/>
+<br/>
+
+https://github.com/vbraun/TypescriptMeetupBerlin
