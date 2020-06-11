@@ -2,6 +2,10 @@
 Talk given at the Typescritpt meetup in Berlin
 ==============================================
 
+
+
+Rendered slides: https://vbraun.github.io/TypescriptMeetupBerlin
+
 https://www.meetup.com/TypeScript-Berlin/events/271056006/
 
 https://www.youtube.com/watch?v=cn6i5Av-B8Q
